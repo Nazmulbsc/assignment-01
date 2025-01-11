@@ -107,6 +107,7 @@ margin-left: 35px;
     gap: 24px;
     margin-left: 40px;
     margin-top: 20px;
+    justify-content: center;
 }
 
 .donate-text{
@@ -126,7 +127,27 @@ margin-left: 35px;
     margin-top: 20px;
    padding: 20px 40px;
 }
+/* footer section */
+.icon-imgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    gap: 24px;
     
+}
+.footer-part{
+    min-height: 220px;
+    background-color: beige;
+    
+}
+.footer-text{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px 30px;
+}
+ 
+  
     
    
 
