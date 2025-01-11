@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Banner-Section{
+    
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 20px;
+    background-color: #C6E4D6;
+    align-items: center;
+    width: 1280px;
+    padding: 20px,160px;
+}
+.banner-titel{
+    color: medium;
+    font-size: 24px;
+}
+.banner-discripation{
+    color: bold;
+    font-size: 56px;
+}
+.btn-banner{
+    color: semibold;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.banner-container{
+    padding-left: 20px;
+}
+/* The Vision of Future code start */
+.vision-titel{
+color: bold;
+font-size: 40px;
+margin-left: 35px;
+}
+.vision-discripation{
+    color: regular;
+    font-size: 16px;
+    margin-left: 35px;
+    margin-bottom: 20px;
+}
+
+.vision-card{
+    background-color: #5490F5;
+    width: 426px;
+   
+}
+.vision-cards{
+    width: 1280px;
+    height: 48px;
+    margin: auto;
+    display: flex;
+    gap: 24px;
+    margin-bottom: 50px;
+    min-height: 250px;
+}
+.vision-text{
+    color: bold;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.vision-photo{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.vision-para{
+    color: regular;
+    font-size: 16px;
+    margin-left:20px ;
+    margin-top: 10px;
+}
+.vision-button{
+    margin-left: 10px;
+    background-color: thistle;
+   margin: 20px 30px;
+   padding: 10px 20px;
+   border-radius: 16px;
+   font
+}
+.dr-yunus-section{
+    margin-left: 35px;
+}
+/* Bangladesh Launches New Satellite */
+
+.Satellite{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    
+}
+#satelite-container{
+    min-height: 640px;
+    padding: 32px 160px 24px 160px;
+}
+
+/* Donate-container code start */
+ #donate-section{
+    min-height: 320px;
+    background-color:#FFFFFF;
+ } 
+.donate-forms{
+    display: flex;
+    gap: 24px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.donate-text{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.form-part{
+    border-radius: 40px;
+}
+.other-placeholder{
+    text-align: center;
+    margin-top: 15px;
+}
+.btn-done{
+    text-align: center;
+    margin-top: 20px;
+   padding: 20px 40px;
+}
+    
+    
+   
+
+
+
+     
